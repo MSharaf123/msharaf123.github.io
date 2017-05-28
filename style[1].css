@@ -1,0 +1,79 @@
+p#biography1 {	
+color:black;
+font-size: 25px;}
+p#biography1:hover{
+	background-color: #f4ad42;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+}
+
+p#biography2 {	
+color:black;
+font-size: 25px;
+}
+p#biography2:hover{
+	background-color: #f4ad42;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+}
+p#biography3 {	
+color:black;
+font-size: 25px;
+}
+p#biography3:hover{
+	background-color: #f4ad42;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+}
+p#list{color: white}
+ol#hobbies{
+	color:white;
+}
+#Activities:hover{
+	background-color: #f4ad42;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+} 
+
+ 
+body
+   {background-image: url("file:///C:/Users/Narek/Desktop/800px-American_University_of_Armenia_-_Avedisian_Building_-_HDR.jpg");
+    background-size: cover;
+     }
+
+#a{
+	border: 16px solid;
+	color:green;
+}
+.my_list{
+	border: 20px solid;
+	color:green;
+	}
+
+#a:hover{
+	background-color: #f4ad42;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+}
+
+.exca{
+	color: black;
+}
+.exca:hover{
+	background-color: #f4ad42;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+}
+#c{
+	color: #1F618D;
+}
+
+
+td,th {
+	padding: 20px;
+	border: 1px solid black;
+}
+
+table{
+	border-collapse: collapse;
+}
